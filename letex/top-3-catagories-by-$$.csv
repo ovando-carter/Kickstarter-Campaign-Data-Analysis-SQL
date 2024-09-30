@@ -1,0 +1,5 @@
+failed campaigns,,,,,
+CampaignType,AvgPledgedAmountInUSD,TotalPledgedAmountInUSD,NumberOfCampaigns,failedCampaigns,SuccessfulCampaigns
+Shorter Campaign,"9,086.19","126,506,976.33","13,923.00","7,330.00","4,990.00"
+Longer Campaign,"8,552.38","9,210,916.77","1,077.00",520.00,329.00
+,533.80,,,,
